@@ -1,4 +1,4 @@
-$(window).on('click', () =>{
+$(window).on('load', () =>{
   console.log('Loadイベントが発生しました')
 })
 
